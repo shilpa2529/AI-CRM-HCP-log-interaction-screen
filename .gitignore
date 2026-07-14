@@ -1,0 +1,108 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# JetBrains
+# =========================
+.idea/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build folders
+dist/
+build/
+
+# Vite
+.vite/
+
+# =========================
+# Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# PostgreSQL dumps
+*.sql
+*.dump
+
+# =========================
+# Coverage
+# =========================
+coverage/
+
+# =========================
+# Uploads
+# =========================
+uploads/
+temp/
+tmp/
+
+# =========================
+# Python packaging
+# =========================
+*.egg-info/
+.eggs/
+
+# =========================
+# Secrets
+# =========================
+*.pem
+*.key
+*.crt
+
+# =========================
+# Misc
+# =========================
+.cache/
